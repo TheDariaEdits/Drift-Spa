@@ -2078,15 +2078,15 @@ input, select, textarea {
 			}
 
 		.icon.style1 {
-			color: #F7F5EF;
+			color: #666;
 		}
 
 		.icon.style2 {
-			color: #00f0ff;
+			color: #666;
 		}
 
 		.icon.style3 {
-			color: #76ddff;
+			color: #666;
 		}
 
 /* Image */
@@ -3893,7 +3893,7 @@ input, select, textarea {
 	}
 
 	body.landing #footer {
-		background-color: rgba(29, 36, 42, 0.9);
+		background-color: #313a2e;
 	}
 
 	body.is-mobile.landing #page-wrapper {
